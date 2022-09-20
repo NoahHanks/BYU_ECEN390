@@ -1,0 +1,4 @@
+extern uint16_t newShot[];
+#define NEW_SHOT_WAV_SAMPLE_RATE 44100
+#define NEW_SHOT_BITS_PER_SAMPLE 24
+#define NEW_SHOT_NUM_ELEMENTS 6518

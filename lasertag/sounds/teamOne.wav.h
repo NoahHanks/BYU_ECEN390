@@ -1,0 +1,4 @@
+extern uint16_t teamOne[];
+#define TEAM_ONE_SAMPLE_RATE 44100
+#define TEAM_ONE_BITS_PER_SAMPLE 24
+#define TEAM_ONE_NUMBER_OF_SAMPLES 19248

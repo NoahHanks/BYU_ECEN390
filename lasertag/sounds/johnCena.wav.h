@@ -1,0 +1,4 @@
+extern uint16_t game_intro_wav[];
+#define JOHN_CENA_SAMPLE_RATE 48000
+#define JOHN_CENA_BITS_PER_SAMPLE 16
+#define JOHN_CENA_NUMBER_OF_SAMPLES 164916

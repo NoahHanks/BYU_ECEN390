@@ -1,0 +1,4 @@
+extern uint16_t teamTwo[];
+#define TEAM_TWO_SAMPLE_RATE 44100
+#define TEAM_TWO_BITS_PER_SAMPLE 24
+#define TEAM_TWO_NUMBER_OF_SAMPLES 20960
