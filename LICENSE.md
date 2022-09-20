@@ -1,8 +1,3 @@
-# BYU ECEN 330 Student Template Repository
-
-![Build](https://github.com/byu-cpe/ecen330_student/actions/workflows/ci.yml/badge.svg)
-
-
 ```
 This software is provided for student assignment use in the Department of
 Electrical and Computer Engineering, Brigham Young University, Utah, USA.

@@ -1,0 +1,6 @@
+#ifndef CONFIG_LAB4
+#define CONFIG_LAB4
+
+#define CONFIG_TIMER_PERIOD 50.0E-3
+
+#endif /* CONFIG_LAB4 */
